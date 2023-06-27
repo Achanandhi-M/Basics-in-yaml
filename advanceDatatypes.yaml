@@ -1,0 +1,25 @@
+students: [marks, rollno, name]
+
+#list of strings
+
+Resident:
+ -India
+State:
+ -TamilNadu
+City:
+ -Chennai  
+
+#nested sequence
+
+country:
+  - India
+state:
+  - TamilNadu
+  - Karnataka
+city:
+  - Chennai
+  - Bengaluru
+
+  #key: value pairs are called maps
+
+

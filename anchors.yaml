@@ -1,0 +1,19 @@
+# reusing some properties using anchor
+
+favourite team: &likes
+  like team: RCB
+  dislike team: CSK
+
+person1:
+ name: Achanandhi
+ <<: *likes
+
+person2:
+ name: venkat
+ <<: *likes
+
+person3:
+ name: venky
+ <<: *likes
+ dislikes: GT
+  

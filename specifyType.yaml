@@ -1,0 +1,7 @@
+Zero : !!int 0
+positiveValue: !!int 2
+negativeValue: !!int -12
+
+#float type
+
+marks: !!float 54.54

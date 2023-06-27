@@ -1,0 +1,30 @@
+#string variable
+
+name: Achanandhi
+job: "Devops Engineer"
+place: 'chennai'
+
+# integer
+Age: 12
+
+#float
+credits: 8.6
+
+#boolean
+
+marriage: No #n,false,False
+
+
+# use pipe | for writing multiple line
+
+bio: |
+ i am currently pursing my BE degree.
+ i am very nice dude.
+ 
+# write a single line in multipel line
+
+message: >
+ this will
+ all
+ be in one single line
+
