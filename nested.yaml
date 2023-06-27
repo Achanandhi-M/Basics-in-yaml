@@ -1,0 +1,8 @@
+School:
+ - name: xyz
+   principal: someone
+   Students:
+   - Rollno: 04
+     Mark: 87
+     name: john
+  
